@@ -1,0 +1,80 @@
+.first{
+  background-color: #d4f3ef;
+
+}
+.slogan{
+  padding-top: 200px;
+  padding-left: 200px;
+  padding-bottom: 200px;
+  font-size: 1.5rem;
+  width: 60%;
+  font-family: cursive;
+  font-weight: bold;
+}
+h1{
+  padding-top: 230px;
+font-size: 4rem;
+}
+.box{
+  text-align: center;
+  padding-left: 100px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+.carousel-control-prev-icon, .carousel-control-next-icon{
+  background-color: grey;
+}
+.footer{
+  color: black;
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.mail{
+  color: black;
+  text-decoration: none;
+  padding-bottom: 10px;
+}
+button {
+       background-color: #4CAF50;
+       width: 100%;
+        color: orange;
+        padding: 15px;
+        margin: 10px 0px;
+        border: none;
+        cursor: pointer;
+         }
+ form {
+        border: 3px solid #f1f1f1;
+    }
+ input[type=text], input[type=password] {
+        width: 100%;
+        margin: 8px 0;
+        padding: 12px 20px;
+        display: inline-block;
+        border: 2px solid green;
+        box-sizing: border-box;
+    }
+ button:hover {
+        opacity: 0.7;
+    }
+  .cancelbtn {
+        width: auto;
+        padding: 10px 18px;
+        margin: 10px 5px;
+    }
+
+
+ .container {
+        padding: 5px;
+        background-color: lightblue;
+        margin-top: 50px;
+        padding-bottom: 50px;
+    }
+.loginheading{
+  padding-top: 40px;
+}
+
+.loginpage{
+  padding-bottom: 60px;
+}
